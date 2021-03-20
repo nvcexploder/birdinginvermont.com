@@ -861,5 +861,6 @@ export default {
   vt251,
   subspecies,
   checklists,
-  getLastDate
+  getLastDate,
+  pointLookup
 }
